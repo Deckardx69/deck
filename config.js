@@ -3,15 +3,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true], 
-  ['5492622689586'], 
-  ['5493885839638'], 
- ['573125484672'] 
+  ['51994299226', 'FG98', true], 
+  ['13045077616'], 
+  ['51994299226'], 
+ ['51977505158'] 
   
 ] //Numeros de owner 
 
 global.mods = [] 
-global.prems = ['50489079501', '5219631769130', '573125484672']
+global.prems = ['51994299226, '13045077616', '573125484672']
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'dylux-bot' 
-global.author = '@fg98._'
+global.packname = 'ᴅᴇᴄᴋᴀʀᴅ  ✓' 
+global.author = '+51 994 299 226'
 global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
